@@ -1,13 +1,12 @@
-I Bought Mac.
+![Images/Transition.png](Images/Transition.png)
 
-# MacOS-setup
-For people who are used to Windows and want to continue using Mac as Windows they are used to I am going to write down few points how you can do it.
+# I Bought Mac.
+I was always an Windows or Linux user, but I decided one nice afternoon, that it would be nice to try Mac.  
+So I bought one.
 
-I will extend it based on how I use the keyboard, and what was more comfy for me to do.
+I would say, I was hardcore user of my laptop, and I love to have some kind of setup which I was using on all computers.  
+So this repository is a documentation fo my hard work, to make MacOS to my liking.
 
-## Keyboard Layout
-On Windows i was used to use Slovak keyboard for coding, mainly because you have almost all the special symbols for coding in the main row. (https://en.wikipedia.org/wiki/AltGr_key#South_Slavic_Latin_and_Czech_keyboards)
-So I decided to modify the default Slovak Mac OS layout using Ukulele tool.
-- The Windows layout:  https://kbdlayout.info/KBDSL/
-You can check the output:
-- Path: KeyboardLayout/Slovak.keylayout
+## History
+
+- [Day 1 - Installation, Keyboard setup]()
