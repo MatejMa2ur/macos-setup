@@ -9,4 +9,4 @@ So this repository is a documentation fo my hard work, to make MacOS to my likin
 
 ## History
 
-- [Day 1 - Installation, Keyboard setup]()
+- [Day 1 - Installation, Keyboard setup](/Pages/Day1-Installation,Keyboard.md)
