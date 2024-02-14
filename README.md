@@ -1,3 +1,5 @@
+I Bought Mac.
+
 # MacOS-setup
 For people who are used to Windows and want to continue using Mac as Windows they are used to I am going to write down few points how you can do it.
 
