@@ -42,7 +42,7 @@ On Windows, I was used to using the Slovak keyboard for coding, mainly because y
 So, I decided to modify the default Slovak macOS layout using the Ukulele tool.
 - The Windows layout:  https://kbdlayout.info/KBDSL/
 You can check the output:
-- Path: [Slovak.keylayout](KeyboardLayout/Slovak.keylayout)
+- Path: [Slovak.keylayout](../KeyboardLayout/Slovak.keylayout)
 
 
 |  |  |  |
