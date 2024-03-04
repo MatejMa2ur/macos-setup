@@ -47,5 +47,5 @@ You can check the output:
 
 |  |  |  |
 | :---         |     :---:      |          ---: |
-| [⌂ Go Home](/README.md) | *13th Feb 2024*  | [Next Page] [->]([Next Page])    |
+| [⌂ Go Home](/README.md) | *13th Feb 2024*  | [Day17 - Customization, Tools ->](./Day17-Customization,Tools.md) |
 

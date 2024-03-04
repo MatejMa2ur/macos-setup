@@ -10,3 +10,4 @@ So this repository is a documentation fo my hard work, to make macOS to my likin
 ## History
 
 - [Day 1 - Installation, Keyboard setup](/Pages/Day1-Installation,Keyboard.md)
+- [Day 17 - Customization, Tools (Power Toys)](/Pages/Day17-Customization,Tools.md)
